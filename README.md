@@ -1,5 +1,7 @@
 #  Brainwallet Generator with Balance
 
+![Brainwallet Scanner PRO](https://files.catbox.moe/oe0ih9.png)
+
 An advanced tool for scanning Bitcoin brainwallets created with weak passphrases.
 
 ## Features
